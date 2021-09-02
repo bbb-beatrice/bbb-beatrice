@@ -1,0 +1,49 @@
+body {
+	background-color: lightblue;
+}
+
+header {
+	background: url("earth.jfif");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 40rem;
+	position: relative;
+	text-align: center;
+}
+
+.header {
+	color: white;
+	font-size: 5rem;
+}
+
+.header-p {
+	color: white;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+
+.bottom {
+	bottom: 10px;	
+	position: absolute;
+}
+
+/*h1{
+	text-align: center;
+}*/
+
+li{
+	font-size: 25px;
+}
+
+.txt {
+	font-size: 20px;
+}
+
+.box {
+	width: 550px;
+}
+
+img{
+	width: 550px;
+}
